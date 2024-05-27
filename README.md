@@ -60,7 +60,7 @@ This application is designed to streamline and enhance the public transportation
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/addis-ababa-transport-app.git
+   git clone https://github.com/yourusername/Addis-ababa-transport-app.git
    ```
 2. Navigate to the project directory:
    ```sh
