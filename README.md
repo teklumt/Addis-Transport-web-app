@@ -1,4 +1,5 @@
-# Addis Ababa City Public Transport App (V0.1)
+---
+# Addis Ababa City Public Transport App
 
 This application is designed to streamline and enhance the public transportation experience in Addis Ababa. Built with a modern tech stack, it provides users with real-time information and convenient features for navigating the city's public transit system.
 
@@ -10,6 +11,7 @@ This application is designed to streamline and enhance the public transportation
 - **Transportation History**: View your previous transportation history.
 - **Latest News**: Stay updated with the latest news related to public transport.
 - **Feedback Page**: Provide feedback to help improve the app and services.
+- **Contact Us Page**: Reach out for support or inquiries.
 - **User-Friendly Interface**: Enjoy a clean and intuitive interface designed with Tailwind CSS.
 - **Responsive Design**: Accessible on both desktop and mobile devices.
 
@@ -20,6 +22,7 @@ This application is designed to streamline and enhance the public transportation
 - **Transportation History**: Users can view their previous transportation records.
 - **Latest News**: Users can access the latest news related to public transportation.
 - **Feedback**: Users can submit feedback to help improve the service.
+- **Contact Us**: Users can reach out for support or inquiries.
 
 ### Admin Side
 - **User Management**: Admins can manage user accounts and profiles.
@@ -31,9 +34,9 @@ This application is designed to streamline and enhance the public transportation
 ## Tech Stack
 
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-  <img src="https://github.com/teklumt/Addis-Transport-web-app/assets/135549662/77946759-2b66-43d2-ba44-e53eac5f5506" alt="React" style="max-width: 20%; height: auto; margin: 10px;">
-  <img src="https://github.com/teklumt/Addis-Transport-web-app/assets/135549662/dd976cce-b909-42b4-90b4-bafa13d22ba7" alt="Spring Boot" style="max-width: 20%; height: auto; margin: 10px;">
-  <img src="https://github.com/teklumt/Addis-Transport-web-app/assets/135549662/5c018a8e-39d1-48f5-8bf0-206716a465c6" alt="MySQL" style="max-width: 20%; height: auto; margin: 10px;">
+  <img src="https://github.com/teklumt/Addis-Transport-web-app/assets/135549662/77946759-2b66-43d2-ba44-e53eac5f5506" alt="React" style="max-width: 30%; height: auto; margin: 10px;">
+  <img src="https://github.com/teklumt/Addis-Transport-web-app/assets/135549662/dd976cce-b909-42b4-90b4-bafa13d22ba7" alt="Spring Boot" style="max-width: 30%; height: auto; margin: 10px;">
+  <img src="https://github.com/teklumt/Addis-Transport-web-app/assets/135549662/5c018a8e-39d1-48f5-8bf0-206716a465c6" alt="MySQL" style="max-width: 30%; height: auto; margin: 10px;">
 </div>
 
 - **Frontend**: Developed using React for a dynamic and responsive user experience.
