@@ -28,6 +28,7 @@ This application is designed to streamline and enhance the public transportation
 - **News Updates**: Admins can post the latest news and updates for users.
 
 ## Tech Stack
+![spring](https://github.com/teklumt/Addis-Transport-web-app/assets/135549662/f78346d7-7a06-48e2-afe4-b19b7879926b)
 
 - **Frontend**: Developed using React for a dynamic and responsive user experience.
   - **Routing**: Implemented with React Router DOM for seamless navigation.
