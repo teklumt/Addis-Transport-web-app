@@ -1,4 +1,4 @@
-# Addis Ababa City Public Transport App
+# Addis Ababa City Public Transport App (V 0.1)
 
 This application is designed to streamline and enhance the public transportation experience in Addis Ababa. Built with a modern tech stack, it provides users with real-time information and convenient features for navigating the city's public transit system.
 
