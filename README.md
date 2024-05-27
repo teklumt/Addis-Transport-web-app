@@ -68,7 +68,7 @@ This application is designed to streamline and enhance the public transportation
    ```
 3. Install frontend dependencies:
    ```sh
-   cd frontend
+   cd Frontend
    npm install
    ```
 4. Start the frontend server:
