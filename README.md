@@ -65,7 +65,7 @@ This application is designed to streamline and enhance the public transportation
    ```
 5. Install backend dependencies and start the server:
    ```sh
-   cd ../backend
+   cd ../Transport
    ./mvnw spring-boot:run
    ```
 
