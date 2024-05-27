@@ -1,4 +1,4 @@
-# Addis Ababa City Public Transport App (V 0.1)
+# Addis Ababa City Public Transport App
 
 This application is designed to streamline and enhance the public transportation experience in Addis Ababa. Built with a modern tech stack, it provides users with real-time information and convenient features for navigating the city's public transit system.
 
@@ -24,26 +24,32 @@ This application is designed to streamline and enhance the public transportation
 ### Admin Side
 - **User Management**: Admins can manage user accounts and profiles.
 - **Feedback Management**: Admins can review and respond to user feedback.
-- **Route and Schedule Management**: Admins can update bus routes and schedules.
+- **Route and Schedule Management**: Admins can update and add new bus routes and schedules.
 - **News Updates**: Admins can post the latest news and updates for users.
+- **Summary Dashboard**: Admins can view an overall summary of the total number of users, transactions, and routes.
 
 ## Tech Stack
-![spring](https://github.com/teklumt/Addis-Transport-web-app/assets/135549662/f78346d7-7a06-48e2-afe4-b19b7879926b)
+
+![react](https://github.com/teklumt/Addis-Transport-web-app/assets/135549662/77946759-2b66-43d2-ba44-e53eac5f5506)![spring](https://github.com/teklumt/Addis-Transport-web-app/assets/135549662/dd976cce-b909-42b4-90b4-bafa13d22ba7)![mysql](https://github.com/teklumt/Addis-Transport-web-app/assets/135549662/5c018a8e-39d1-48f5-8bf0-206716a465c6)
+
 
 - **Frontend**: Developed using React for a dynamic and responsive user experience.
   - **Routing**: Implemented with React Router DOM for seamless navigation.
+  - **Form Handling**: Managed with React Form for efficient form handling.
 - **Backend**: Powered by Java Spring Boot for robust and efficient server-side operations.
   - **API Endpoints**:
     - `/user`: User profile management
     - `/history`: User transportation history
     - `/feedback`: User feedback
     - `/bus`: Bus schedules and routes
+- **Database**: Utilizes MySQL for reliable data storage and retrieval.
 - **Styling**: Styled with Tailwind CSS to ensure a modern and cohesive look and feel.
 
 ## Requirements
 
 - **Node.js**: Version 20.10.0 or above
 - **JDK**: Version 17 or above
+- **MySQL**: Ensure MySQL server is installed and running
 
 ## Installation
 
@@ -64,9 +70,19 @@ This application is designed to streamline and enhance the public transportation
    ```sh
    npm run dev
    ```
-5. Install backend dependencies and start the server:
+5. Install backend dependencies:
    ```sh
    cd ../Transport
+   ./mvnw install
+   ```
+6. Set up the MySQL database:
+   - Create a new database named `transport_demo`:
+     ```sql
+     CREATE DATABASE transport_demo;
+     ```
+   - Update the database configuration in the backend application properties.
+7. Start the backend server:
+   ```sh
    ./mvnw spring-boot:run
    ```
 
@@ -79,3 +95,5 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 This project is licensed under the MIT License.
 
 ---
+
+Developed by Teklu Moges.
