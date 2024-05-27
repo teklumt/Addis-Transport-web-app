@@ -34,7 +34,7 @@ This application is designed to streamline and enhance the public transportation
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
   <img src="https://github.com/teklumt/Addis-Transport-web-app/assets/135549662/77946759-2b66-43d2-ba44-e53eac5f5506" alt="React" style="max-width: 30%; height: auto; margin: 10px;">
   <img src="https://github.com/teklumt/Addis-Transport-web-app/assets/135549662/dd976cce-b909-42b4-90b4-bafa13d22ba7" alt="Spring Boot" style="max-width: 30%; height: auto; margin: 10px;">
-                                                      <img src="https://github.com/teklumt/Addis-Transport-web-app/assets/135549662/5c018a8e-39d1-48f5-8bf0-206716a465c6" alt="MySQL" style="max-width: 30%; height: auto; margin: 10px;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/teklumt/Addis-Transport-web-app/assets/135549662/5c018a8e-39d1-48f5-8bf0-206716a465c6" alt="MySQL" style="max-width: 30%; height: auto; margin: 10px;">
 </div>
 
 ## Tech Stack
