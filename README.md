@@ -31,14 +31,13 @@ This application is designed to streamline and enhance the public transportation
 - **News Updates**: Admins can post the latest news and updates for users.
 - **Summary Dashboard**: Admins can view an overall summary of the total number of users, transactions, and routes.
 
-## Tech Stack
-
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <img src="https://github.com/teklumt/Addis-Transport-web-app/assets/135549662/77946759-2b66-43d2-ba44-e53eac5f5506" alt="React" style="max-width: 30%; height: auto; margin: 10px;">
   <img src="https://github.com/teklumt/Addis-Transport-web-app/assets/135549662/dd976cce-b909-42b4-90b4-bafa13d22ba7" alt="Spring Boot" style="max-width: 30%; height: auto; margin: 10px;">
   <img src="https://github.com/teklumt/Addis-Transport-web-app/assets/135549662/5c018a8e-39d1-48f5-8bf0-206716a465c6" alt="MySQL" style="max-width: 30%; height: auto; margin: 10px;">
 </div>
 
+## Tech Stack
 - **Frontend**: Developed using React for a dynamic and responsive user experience.
   - **Routing**: Implemented with React Router DOM for seamless navigation.
   - **Form Handling**: Managed with React Form for efficient form handling.
