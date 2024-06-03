@@ -18,6 +18,7 @@ This application is designed to streamline and enhance the public transportation
 ## User and Admin Features
 
 ### User Side
+
 - **Profile Management**: Users can update their personal information and preferences.
 - **Transportation History**: Users can view their previous transportation records.
 - **Latest News**: Users can access the latest news related to public transportation.
@@ -25,6 +26,7 @@ This application is designed to streamline and enhance the public transportation
 - **Contact Us**: Users can reach out for support or inquiries.
 
 ### Admin Side
+
 - **User Management**: Admins can manage user accounts and profiles.
 - **Feedback Management**: Admins can review and respond to user feedback.
 - **Route and Schedule Management**: Admins can update and add new bus routes and schedules.
